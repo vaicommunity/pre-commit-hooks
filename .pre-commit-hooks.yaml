@@ -1,5 +1,5 @@
 -   id: run-tests
     name: Run tests for python
     description: automatic testing is so important to projects QA.
-    entry: echo "hola"
+    entry: make test
     language: system
