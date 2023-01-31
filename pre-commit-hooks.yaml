@@ -1,0 +1,6 @@
+-   id: run-tests
+    name: Run tests for python
+    description: automatic testing is so important to projects QA.
+    entry: run-tests
+    language: system
+    types: [text]
