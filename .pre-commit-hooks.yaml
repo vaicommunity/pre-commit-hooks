@@ -3,4 +3,3 @@
     description: automatic testing is so important to projects QA.
     entry: run-tests
     language: system
-    types: [text,shell]
