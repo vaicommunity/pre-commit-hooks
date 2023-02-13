@@ -3,3 +3,9 @@
     description: automatic testing is so important to projects QA.
     entry: make test
     language: system
+
+-   id: run-import-sort
+    name: Sorting Imports in the project files
+    description: automatic testing is so important to projects QA.
+    entry: run-import-sort
+    language: python
